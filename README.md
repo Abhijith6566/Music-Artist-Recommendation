@@ -9,9 +9,15 @@ Since the idea is to recommend music artists by the number of plays and the user
 
 We need to Merge both user_artists.dat and artists.dat using id and rename weight in user_artists.dat to playCount. 
 And rank in descending order on how much each artists is played by the users
-![mr1](https://use![mr2](https://user-images.githubusercontent.com/86455496/160304206-a245fe4a-3f4c-4b5c-817c-f181be7b3838.png)
-r-images.githubusercontent.com/86455496/160304198-f1be00d7-d3ce-4bc4-b7d6-4f92efaa8096.png)
+![mr1](https://user-images.githubusercontent.com/86455496/160304533-dd32bfa9-970d-4676-b93a-9477450b365f.png)
 
+
+
+![mr2](https://user-images.githubusercontent.com/86455496/160304534-df229cbc-c2d0-4c45-8ef9-f53bb9610499.png)
+
+
+
+![mr3](https://user-images.githubusercontent.com/86455496/160304542-1818cebd-e68c-43bc-a9fa-7a3d2e74f4d8.png)
 
 Exploring the data set one important fact , we found is Britney Spears have more total artists plays however Lady Gaga have more unique users
 
