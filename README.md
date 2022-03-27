@@ -11,9 +11,6 @@ We need to Merge both user_artists.dat and artists.dat using id and rename weigh
 And rank in descending order on how much each artists is played by the users
 ![mr1](https://use![mr2](https://user-images.githubusercontent.com/86455496/160304206-a245fe4a-3f4c-4b5c-817c-f181be7b3838.png)
 r-images.githubusercontent.com/86455496/160304198-f1be00d7-d3ce-4bc4-b7d6-4f92efaa8096.png)
-![Uploading mr2.png…]()
-![mr3](https://user-images.githubusercontent.com/86455496/160304208-ee76a96c-e2e7-45ca-9d12-a6eb0e3f3b5b.png)
-
 
 
 Exploring the data set one important fact , we found is Britney Spears have more total artists plays however Lady Gaga have more unique users
